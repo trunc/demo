@@ -9,4 +9,15 @@ and i can't react
 and games that never amount to more than they're meant 
 they 'll play themselves out
 
-grilllllll
+
+——————————————————————————————————————————————————————
+同步更新：
+git sync 本地与远程同步；
+
+删除远程文件【先备份本地，然后删除本地库相关文件】
+git commit -> "master" 选中己上传的颜色为红色的文件名，然后push即可删除远程;
+
+添加至远程github库
+先把本地文件放至本地库，然后add , 然后push即可;
+————————————————————————————————————————————————————————————————————————————————
+
